@@ -26,6 +26,9 @@ AI-powered prompts generation
 
 </br>
 
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
 ### Installation
 
  repository clone:
