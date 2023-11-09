@@ -2,7 +2,8 @@
 
 ### Demo
 
-<img src="https://raw.githubusercontent.com/Yasintha-Serasinghe/AI-webDesign/main/assets/150212148/1a699f9d-751a-409a-81ad-899fb09acdbb.png" alt="nova">
+![nova](https://raw.githubusercontent.com/Yasintha-Serasinghe/AI-webDesign/main/assets/150212148/1a699f9d-751a-409a-81ad-899fb09acdbb.png)
+
 
 
 </br>
