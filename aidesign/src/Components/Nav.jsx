@@ -1,16 +1,18 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import { Navbar, Button } from 'flowbite-react'; // Make sure to import the necessary components
-import Login from './Login';
+import React from "react";
+import { Link } from "react-router-dom";
+import { Navbar, Button } from "flowbite-react"; // Make sure to import the necessary components
+import Login from "./Login";
 
 export default function NavbarWithCTAButton() {
   return (
-    <Navbar fluid rounded style={{ backgroundColor: 'black' }}>
+    <Navbar fluid rounded style={{ backgroundColor: "black" }}>
       <Navbar.Brand href="#">
-        <span className="self-center whitespace-nowrap text-xl font-semibold text-white mx-8">Nova-AI</span>
+        <span className="self-center whitespace-nowrap text-xl font-semibold text-white mx-8">
+          Nova-AI
+        </span>
       </Navbar.Brand>
       <div className="flex md:order-2">
-        <Link to='/login'> {/* Use Link to navigate to the /login route */}
+        <Link to="/login">
           <Button>Sign-In</Button>
         </Link>
         <Navbar.Toggle />
