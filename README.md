@@ -2,7 +2,7 @@
 
 ### Demo
 
-![nova](https://github.com/Yasintha-Serasinghe/AI-webDesign/assets/150212148/1a699f9d-751a-409a-81ad-899fb09acdbb)
+![nova](https://github.com/Yasintha-Serasinghe/AI-webDesign/assets/150212148/d4e1e35c-7e1e-408a-a92f-b35b466c64cd)
 
 </br>
 
