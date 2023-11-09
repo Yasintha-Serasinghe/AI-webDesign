@@ -5,6 +5,7 @@
 ![nova](https://github.com/Yasintha-Serasinghe/AI-webDesign/assets/150212148/1a699f9d-751a-409a-81ad-899fb09acdbb)
 
 </br>
+
 ### Technologies Used
 This project uses the following technologies:
 
@@ -15,12 +16,14 @@ AI-powered prompts generation
 
 </ul>
 </br>
+
 ### Authors
 
 
 - [YASINTHA SERASINGHE](https://github.com/Yasintha-Serasinghe)
 
 </br>
+
 ### Installation
 
  repository clone:
@@ -30,6 +33,7 @@ AI-powered prompts generation
 
 ```
 </br>
+
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
