@@ -1,7 +1,8 @@
 # This is a model of a website that generates images using artificial intelligence.
 
 # Demo
-![Project image](https://github.com/Yasintha-Serasinghe/AI-webDesign/raw/main/nova.png)
+![Project image](https://yasintha-serasinghe.github.io/AI-webDesign/nova.png)
+
 
 
 ## Technologies Used
