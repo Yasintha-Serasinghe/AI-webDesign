@@ -1,11 +1,11 @@
  # This is a model of a website that generates images using artificial intelligence.
 
-# Demo
+### Demo
 
 ![nova](https://github.com/Yasintha-Serasinghe/AI-webDesign/assets/150212148/1a699f9d-751a-409a-81ad-899fb09acdbb)
 
-
-## Technologies Used
+</br>
+### Technologies Used
 This project uses the following technologies:
 
 <ul>
@@ -14,14 +14,14 @@ AI-powered prompts generation
 <li>Tailwind css</li>
 
 </ul>
-
-## Authors
+</br>
+### Authors
 
 
 - [YASINTHA SERASINGHE](https://github.com/Yasintha-Serasinghe)
 
-
-## Installation
+</br>
+### Installation
 
  repository clone:
 
@@ -29,12 +29,12 @@ AI-powered prompts generation
   git clone https://github.com/Yasintha-Serasinghe/AI-webDesign.git
 
 ```
-
-## License
+</br>
+### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+</br>
 
-
-## 🔗 Links
+### 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gihan-serasinghe-457033264/)
     
